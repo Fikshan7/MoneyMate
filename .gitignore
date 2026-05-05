@@ -1,0 +1,14 @@
+# Archives
+MoneyMate.zip
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Sensitive credentials — NEVER commit these
+includes/db.php
+docs/MoneyMate_Report-1.pdf
+
+# IDEs
+.vscode/
+.idea/
